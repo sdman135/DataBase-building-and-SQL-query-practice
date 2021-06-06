@@ -18,7 +18,7 @@ For this project I wanted to showcase my ability to make a Relational DataBase.
 
 * Python 3.8
 * Jupyter Notebook 6.0.1
-* A few imports: pandas, numpy, matplotlib.pyplot, seaborn, statsmodels and sklearn
+* A few imports: pandas, numpy, and sqlite3
 
 
 ## Authors
