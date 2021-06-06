@@ -1,15 +1,19 @@
 # Relational DataBase building, data ingesting + SQL query practice
 ![](images/[insert_image].png)
 
-Relational DataBase building & data ingesting + SQL query practice
 
-For this project I wanted to showcase my abibilty to make a Relational DataBase.
+For this project I wanted to showcase my ability to make a Relational DataBase.
 
 ## What Did I Do?
 
-* Imported .cvs file
+* Imported .cvs files (data to be ingested later into the DataBase).
 
-* 
+* Used Sqlite3 to create and establish connection to DataBase file.
+
+* Constructed and populated tables with a few functions.
+
+* Lastly I (SQL) queried data from the DataBase with conditions and save them to Pandas Dataframes.
+
 ## Built With
 
 * Python 3.8
