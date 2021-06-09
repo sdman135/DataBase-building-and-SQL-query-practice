@@ -12,7 +12,7 @@ For this project I wanted to showcase my ability to make a Relational DataBase.
 
 * Constructed and populated tables with a few functions.
 
-* Lastly I (SQL) queried data from the DataBase with conditions and save them to Pandas Dataframes.
+* Lastly I queried (SQL) data from the newly made DataBase. Querying with conditions and saving them to Pandas Dataframes.
 
 ## Built With
 
