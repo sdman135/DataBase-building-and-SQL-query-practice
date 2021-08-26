@@ -114,8 +114,8 @@ dmypy.json
 .pyre/
 
 # Database folder
-/db/
+Anime_Reviews_Databases/db/
 
 # Data Folder
-Anime_Reviews_Databases/data/*
+Anime_Reviews_Databases/data/
 README - Copy.md
